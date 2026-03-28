@@ -1,50 +1,43 @@
-<!-- 🔥 AI Themed Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Talha%20Ammar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20%7C%20Agentic%20AI%20%7C%20Enterprise%20Systems&descAlignY=55&descAlign=50"/>
+<h1 align="center">Hi 👋, I'm Talha Ammar</h1>
+<h3 align="center">Automation & Agentic AI Builder | IT SSystems Lead | LLM Apps • APIs • Enterprise Workflows</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codetechs965&label=Profile%20views&color=0e75b6&style=flat" alt="codetechs965" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codetechs965" alt="codetechs965" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **Full Stack developement**
+
+- 🌱 I’m currently learning **AI Automation**
+
+- 👯 I’m looking to collaborate on **Agentic AI**
+
+- 🤝 I’m looking for help with **AI Automation**
+
+- 👨‍💻 All of my projects are available at [https://github.com/codeTechs965](https://github.com/codeTechs965)
+
+- 📝 I regularly write articles on [www.linkedin.com/in/talha-ammar-b0a0b01aa](www.linkedin.com/in/talha-ammar-b0a0b01aa)
+
+- 💬 Ask me about **What’s your name?**
+
+- 📫 How to reach me **talhaammar7890@gmail.com**
+
+- 📄 Know about my experiences [www.linkedin.com/in/talha-ammar-b0a0b01aa](www.linkedin.com/in/talha-ammar-b0a0b01aa)
+
+- ⚡ Fun fact **I think I am Productive**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/talha-ammar-b0a0b01aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/talha-ammar-b0a0b01aa" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/52250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="52250" height="30" width="40" /></a>
 </p>
 
-<!-- 🔥 Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Automation+%26+Agentic+AI+Builder;IT+Operations+%26+Systems+Lead;LLM+Applications+Developer;Enterprise+Workflow+Architect" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codetechs965&show_icons=true&locale=en&layout=compact" alt="codetechs965" /></p>
 
-## 👨‍💻 About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codetechs965&show_icons=true&locale=en" alt="codetechs965" /></p>
 
-💼 IT Operations & Systems Lead with real-world experience in:
-
-- Networking & Infrastructure  
-- Enterprise Deployments  
-- Oracle Transportation Management  
-- Fleet & Order Management Systems  
-- Workflow Optimization  
-
-🤖 Now building:
-
-- Agentic AI systems  
-- LLM-powered automation tools  
-- WhatsApp AI assistants  
-- API & Webhook integrated enterprise workflows  
-
-I design intelligent systems that reason, plan, and execute tasks in production environments.
-
----
-
-## ⚙️ Tech Stack
-
-### 🚀 Core
-`Python` `FastAPI` `LangChain` `LangGraph` `OpenAI API` `Gemini API`
-
-### 🔗 Automation
-`n8n` `Microsoft Power Automate` `Webhook Systems` `WhatsApp Business API`
-
-### 🏢 Enterprise
-`Oracle OTM` `Fleet Systems` `Order Management` `Network Infrastructure`
-
----
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codetechs965&" alt="codetechs965" /></p>
